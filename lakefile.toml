@@ -1,0 +1,6 @@
+name = "Euclid"
+version = "0.1.0"
+defaultTargets = ["Euclid"]
+
+[[lean_lib]]
+name = "Euclid"
